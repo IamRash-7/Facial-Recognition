@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+myenv
+.DS_Store
+data
+training_checkpoints
+__pycache__
+application_data
+siamesemodel.h5
+siamesemodelv2.h5
+siamesemodelv3.h5
