@@ -1,5 +1,9 @@
 # Idea
 ### Implementation of the Research Paper "Siamese Neural Networks for One-shot Image Recognition"
+
+Link to paper - https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
+
+
 # Architecture
 ![Alt text](https://github.com/IamRash-7/Facial-Recognition/blob/main/Model%20Architecture.png)
 
